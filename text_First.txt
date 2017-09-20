@@ -1,2 +1,3 @@
 I can do Git!
+I edited this file!
 Connected to text_Second.txt
