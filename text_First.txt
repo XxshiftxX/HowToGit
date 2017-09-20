@@ -1,2 +1,3 @@
 I can do Git!
-Connected to text_Second.txt
+
+Connect to text_Second.txt
